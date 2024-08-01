@@ -1,5 +1,5 @@
 [package]
-name = "final_2"
+name = "stock-market-data-crawler"
 version = "0.1.0"
 edition = "2021"
 
